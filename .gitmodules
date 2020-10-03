@@ -4,7 +4,8 @@
 	branch = master
 [submodule "amundsenfrontendlibrary"]
 	path = amundsenfrontendlibrary
-	url = https://github.com/lyft/amundsenfrontendlibrary
+  #url = https://github.com/lyft/amundsenfrontendlibrary
+	url = https://github.com/Wonong/amundsenfrontendlibrary.git
 	branch = master
 [submodule "amundsenmetadatalibrary"]
 	path = amundsenmetadatalibrary
@@ -12,8 +13,11 @@
 	branch = master
 [submodule "amundsensearchlibrary"]
 	path = amundsensearchlibrary
-	url = https://github.com/lyft/amundsensearchlibrary
+	# url = https://github.com/lyft/amundsensearchlibrary
+	url = https://github.com/Wonong/amundsensearchlibrary.git
 	branch = master
 [submodule "amundsencommon"]
 	path = amundsencommon
-	url = https://github.com/lyft/amundsencommon
+  #url = https://github.com/lyft/amundsencommon
+  url = https://github.com/Wonong/amundsencommon
+  branch = master
