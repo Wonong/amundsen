@@ -23,3 +23,7 @@
 	#url = https://github.com/amundsen-io/amundsencommon
 	url = https://github.com/Wonong/amundsencommon
 	branch = master
+[submodule "amundsengremlin"]
+	path = amundsengremlin
+	url = https://github.com/amundsen-io/amundsengremlin
+	branch = master
